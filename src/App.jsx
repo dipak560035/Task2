@@ -1,8 +1,4 @@
 
-
-
-
-// export default function App() {
 //   const handleSubmit=(e)=>{
 //     e.preventDefault();
 
