@@ -1,7 +1,7 @@
 
 
 
-//       onChange={(e)=>{
+
 //        console.log(e.target.value) ;
 //       }}
 //       label='email' name="email"/>
