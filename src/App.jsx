@@ -2,7 +2,7 @@
 
 
 
-//        console.log(e.targe
+//        console.log(e.targ
 //       }}
 //       label='email' name="email"/>
     
