@@ -1,4 +1,4 @@
 import { heroui } from "@heroui/react";
 // or import from theme package if you are using individual packages.
-// import { heroui } from "@hero
+// import { heroui } from "@he
 export default heroui();
