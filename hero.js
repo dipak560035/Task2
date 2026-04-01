@@ -1,3 +1,3 @@
 import { heroui } from "@heroui/react";
-// or import fr
+// or import f
 export default heroui();
