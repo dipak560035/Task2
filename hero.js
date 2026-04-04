@@ -1,3 +1,3 @@
 import { heroui } from "@heroui/react";
-// or im
+// or i
 export default heroui();
