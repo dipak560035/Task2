@@ -3,7 +3,7 @@
 //       label='email' name="email"/>
     
 //     <Button type="submit">Submit</Button>
-//  </for
+//  </
 //     
 import { Button, Input } from "@heroui/react";
 import { useState } from "react";
