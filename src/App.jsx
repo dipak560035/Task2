@@ -3,7 +3,7 @@
 //       label='email' name="email"/>
     
 //     <Button type="submit">Submit</Button>
-//  </form>
+//  </for
 //     </div>
 //  
 import { Button, Input } from "@heroui/react";
