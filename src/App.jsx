@@ -2,9 +2,7 @@
 
 //       label='email' name="email"/>
     
-//     <Button type="submit">Submit</Button>
-//  </
-//     
+//     <Button type="submit">Submit</Button>    
 import { Button, Input } from "@heroui/react";
 import { useState } from "react";
 
